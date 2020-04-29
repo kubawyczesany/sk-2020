@@ -27,7 +27,6 @@
 |   ``link``    |                | zarządza i wyświetla stan wszystkich interfejsów sieciowych |
 |               |       ``ip link  ``        |   informacja o wszystkich interfejsach |   
 |               |     	``ip link show dev eno1  ``   |   informacja o konkretnym interfejsie |   
-
 |   ``route``   |                 |   wyświetla i zmienia tablice routingu    |
 |            |        ``ip route``         |    	zarządzanie tablicą routingu wewnątrz jądra   |
 |   ``maddr``   |                  | zarządza i wyświetla adresy IP multicast |
