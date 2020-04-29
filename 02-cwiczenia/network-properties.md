@@ -29,12 +29,10 @@ Wejściowe parametry sieci
 Weryfikacja połączenia
 
 Polecenie
-```
-```
+``Polecenie ping 10.0.15.4 ping 10.0.15.6``
 
 Efekt
-```
-```
+``Pakiety wysłano i odebrano - połączenie działa``
 
 Statyczna konfiguracja parametrów połączenia
 Wejściowe parametry sieci
@@ -55,12 +53,12 @@ Wejściowe parametry sieci
 Weryfikacja połączenia
 
 Polecenie
-```
-```
+``ping 192.168.10.11``
+``ping 172.16.100.100``
 
 Efekt
-```
-```
+``odpowiedź od hosta``
+``brak odpowiedzi hosta - komunikat Network unreachable``
 
 Nowa statyczna konfiguracja 
 
@@ -78,16 +76,15 @@ Nowa statyczna konfiguracja
 Weryfikacja połączenia
 
 Polecenie
-```
-```
+``ping 192.168.12.19``
 
 Efekt
-```
-```
+``odpowiedź hosta``
 
 ### Utrwalenie konfiguracji
 
 Dlaczego? Jak? Co? :)
+Wszystko ma swój cel.
 
 ### Warto wiedzieć
 
