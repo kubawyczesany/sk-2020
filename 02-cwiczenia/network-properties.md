@@ -66,12 +66,12 @@ Nowa statyczna konfiguracja
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
 |   PC 1 |  
-| IP - address  |  | |
-| MASKA  |  | |
+| IP - address  | ``192.168.12.1`` | |
+| MASKA  | ``255.255.255.0`` | |
 |   |  | |
 | PC 2  |  | |
-| IP - address  |  | |
-| MASKA  |  | |
+| IP - address  | `` 	192.168.12.19`` | |
+| MASKA  |  `` 	255.255.255.255``| |
 
 Weryfikacja połączenia
 
