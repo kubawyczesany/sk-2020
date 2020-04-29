@@ -12,8 +12,8 @@
 ### ip 
 | subcommand    |  polecenie   | opis  |
 | ------------- |:-------------| :---------------| 
-|   ``route``    |                               | |
-|               |   ``ip route add``             | |
+|   ``route``   |   ``ip route`  | wyświetl tablice routingu|
+|   ``route add`` |   ``ip route add``  | ustaw statyczny route |
 
 
 ### Zastosowania
