@@ -18,8 +18,9 @@ Organizacja planuje rozpoczęcie działalności w 3 budynkach, w każdym z nich 
  
  ## Adresacja linków pomiędzy routerami
  
- 
- 
+ * LAN1 <=> LAN2 192.207.4.1 <=> 192.207.0.2
+ * LAN1 <=> LAN3 192.207.0.1 <=> 192.207.0.3
+ * LAN2 <=> LAN3 192.207.4.2 <=> 192.207.4.3
  
  
  ## Tablice routingów na poszczególnych routerach
@@ -27,7 +28,7 @@ Organizacja planuje rozpoczęcie działalności w 3 budynkach, w każdym z nich 
  * Router 1: 
  
 192.108.0.0/22 via 192.207.0.2 \
-192.109.0.0/22 via 192.207.0.3 \
+192.109.0.0/22 via 192.207.0.3 
 
  * Router 2: 
  
