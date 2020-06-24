@@ -10,7 +10,15 @@ Organizacja planuje rozpoczęcie działalności w 3 budynkach, w każdym z nich 
 
 ## Zawartość
 
- * Adresy poszczególnych sieci IP
- * Adresację linków pomiędzy routerami
- * Tablice routingów na poszczególnych routerach
+ ## Adresy poszczególnych sieci IP
+ 
+ * LAN 1 192.107.0.0/22 : dostępne adresy: od 192.107.0.1 do 192.107.3.254
+ * LAN 2 192.108.0.0/22 : dostępne adresy: od 192.108.0.1 do 192.108.3.254
+ * LAN 1 192.109.0.0/22 : dostępne adresy: od 192.109.0.1 do 192.109.3.254
+ 
+ ## Adresacja linków pomiędzy routerami
+ 
+ 
+ 
+ ## Tablice routingów na poszczególnych routerach
  
