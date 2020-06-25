@@ -10,6 +10,7 @@ Organizacja planuje rozpoczęcie działalności w 3 budynkach, w każdym z nich 
 
 ## Zawartość
 
+
  ## Adresy poszczególnych sieci IP
  
  * LAN 1 192.107.0.0/22 : dostępne adresy: od 192.107.0.1 do 192.107.3.254
